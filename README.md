@@ -1,1 +1,2 @@
-# QA_Projeto_Integrador
+# Projeto cypress + cucumber
+Repositórios para cadeira de qualidade de software
